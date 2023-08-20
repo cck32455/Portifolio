@@ -181,11 +181,9 @@ nav ul li a {
   gap: 14px;
 
   .box-button{
-     display: block;
     border: 1px solid white;
-    padding: 4px 8px;
-    border-radius: 4px;
-    color: white;
+    diplay: 1;
+    
    
     
   
