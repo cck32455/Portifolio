@@ -180,7 +180,13 @@ nav ul li a {
   margin:  10px;
   gap: 14px;
 }
-
+.box-button{
+    border: 1px solid white;
+    padding: 8px 24px;
+    border-radius: 4px;
+    color: white;
+    background-color: transparent;
+    transition: background-color 
 
 
 .project-box img {
