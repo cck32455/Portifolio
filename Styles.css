@@ -186,7 +186,17 @@ nav ul li a {
 
 .project-box img {
   max-width: 100%;
-}
+} 
+
+.box-button{
+     max-width: 10px;
+    border: 1px solid white;
+    padding: 4px 8px;
+    border-radius: 4px;
+    color: white;
+    background-color: transparent
+    transition: background-color 
+  
 
 footer {
   background-color: #000000;
