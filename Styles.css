@@ -182,12 +182,14 @@ nav ul li a {
 }
 
 .box-button{
+     max-width: 100px;
     border: 1px solid white;
     padding: 4px 8px;
     border-radius: 4px;
     color: white;
     background-color: transparent
     transition: background-color 
+  
 };
 
 
