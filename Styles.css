@@ -178,14 +178,7 @@ nav ul li a {
   padding: 20px;
   text-align: center;
   margin:  10px;
-  gap: 14px;
-
-  .box-button{
-    border: 1px solid white;
-    diplay: 1;
-    
-   
-    
+  gap: 14px;    
   
 }
 
